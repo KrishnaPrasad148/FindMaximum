@@ -50,13 +50,13 @@ print(f"The answer is {max_marks([88, 67, 77, 93, 95, 11, 67, 89, 56, 89])}")
 
 ## Output:
 ### i)
-![image](https://github.com/KrishnaPrasad148/FindMaximum/assets/147332763/a7e46780-4587-46ae-b280-117c8d63b08e)
+![Screenshot 2024-05-08 064507](https://github.com/KrishnaPrasad148/FindMaximum/assets/147332763/c867ad2b-56ce-4f4e-9276-4beb308e5b5e)
 
 ### ii)
-![image](https://github.com/KrishnaPrasad148/FindMaximum/assets/147332763/4edd404e-e682-4856-9a82-13e18d18a1c4)
+![Screenshot 2024-05-08 064520](https://github.com/KrishnaPrasad148/FindMaximum/assets/147332763/8c4fa140-ab21-47cb-b476-3e581a69ff20)
 
 ### iii)
-![image](https://github.com/KrishnaPrasad148/FindMaximum/assets/147332763/925ee232-5238-4886-a193-1b3305ae32d7)
+![Screenshot 2024-05-08 064538](https://github.com/KrishnaPrasad148/FindMaximum/assets/147332763/e2e54cae-0fbe-4556-8b2a-ee1200402cdb)
 
 
 ## Result:
